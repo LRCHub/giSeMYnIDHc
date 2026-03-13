@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "I'll be the one",
+  "base_artist": "H∧L",
+  "createdAt": "2026-03-13T14:06:56.013885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Be The One",
+      "artist": "Trademark",
+      "has_synced": true,
+      "path": "select/01_I'll_Be_The_One_Trademark.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ill be the one",
+      "artist": "hal",
+      "has_synced": true,
+      "path": "select/02_ill_be_the_one_hal.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Be the One",
+      "artist": "Lunachicks",
+      "has_synced": false,
+      "path": "select/03_I'll_Be_the_One_Lunachicks.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Be the One",
+      "artist": "Badfinger",
+      "has_synced": true,
+      "path": "select/04_I'll_Be_the_One_Badfinger.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Be The One",
+      "artist": "Badfinger",
+      "has_synced": true,
+      "path": "select/05_I'll_Be_The_One_Badfinger.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Be the One",
+      "artist": "Foolproof",
+      "has_synced": false,
+      "path": "select/06_I'll_Be_the_One_Foolproof.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Be the One",
+      "artist": "NerdOut",
+      "has_synced": false,
+      "path": "select/07_I'll_Be_the_One_NerdOut.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'll Be the One",
+      "artist": "Trademark",
+      "has_synced": false,
+      "path": "select/08_I'll_Be_the_One_Trademark.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll be the One",
+      "artist": "Global Kryner",
+      "has_synced": false,
+      "path": "select/09_I'll_be_the_One_Global_Kryner.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll be the one",
+      "artist": "H∧L",
+      "has_synced": true,
+      "path": "select/10_I'll_be_the_one_H∧L.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Be The One",
+      "artist": "Scream Inc.",
+      "has_synced": false,
+      "path": "select/11_I'll_Be_The_One_Scream_Inc..txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll be the one",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/12_I'll_be_the_one_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I’ll Be the One",
+      "artist": "Trademark",
+      "has_synced": true,
+      "path": "select/13_I’ll_Be_the_One_Trademark.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Be The One",
+      "artist": "Dru Hill",
+      "has_synced": true,
+      "path": "select/14_I'll_Be_The_One_Dru_Hill.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'll Be the One",
+      "artist": "Gov't Mule",
+      "has_synced": false,
+      "path": "select/15_I'll_Be_the_One_Gov't_Mule.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'll Be The One",
+      "artist": "Boz Scaggs",
+      "has_synced": true,
+      "path": "select/16_I'll_Be_The_One_Boz_Scaggs.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I’ll Be The One",
+      "artist": "Noah Schnacky",
+      "has_synced": true,
+      "path": "select/17_I’ll_Be_The_One_Noah_Schnacky.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'll be the one",
+      "artist": "H∧L",
+      "has_synced": false,
+      "path": "select/pl_01_I'll_be_the_one_H∧L.txt"
+    }
+  ]
+}
